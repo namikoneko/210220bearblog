@@ -16,5 +16,5 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: "tags", name: "tags", widget: "relation",  collection: "tags", valueField: "id", searchFields: ["id"], multiple: true }
+      - { label: "tags", name: "tags", widget: "list", default: ["diary"] }
 

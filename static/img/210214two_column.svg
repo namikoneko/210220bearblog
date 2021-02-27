@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1052.3622"
+   viewBox="0 0 1200 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="210214two_column.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.149019"
+     inkscape:cx="177.22233"
+     inkscape:cy="831.8177"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1277"
+     inkscape:window-height="563"
+     inkscape:window-x="44"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,5.6872848e-5)">
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:2.00729609;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3396"
+       width="1098.1697"
+       height="326.81302"
+       x="343.33853"
+       y="68.716774" />
+    <g
+       id="g4214"
+       transform="translate(292.42337,7.9560966)">
+      <rect
+         y="101.03036"
+         x="98.826935"
+         height="69.453346"
+         width="208.85236"
+         id="rect4198"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.48665273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200"
+         y="146.79219"
+         x="159.75702"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="146.79219"
+           x="159.75702"
+           id="tspan4202"
+           sodipodi:role="line">logo</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="865.32373"
+       y="85.086105"
+       id="text4210"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="865.32373"
+         y="85.086105"
+         style="font-size:20px;fill:#ff0000">header<tspan
+   style="fill:#000000"
+   id="tspan4264">.pageheader</tspan></tspan></text>
+    <g
+       id="g4254"
+       transform="translate(292.42337,-3.5725288)">
+      <rect
+         y="105.68587"
+         x="746.54755"
+         height="83.199577"
+         width="368.77649"
+         id="rect4204"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(31.611023,11.080578)"
+         id="g4246">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="775.77985"
+           y="141.66406"
+           id="text4206"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4208"
+             x="775.77985"
+             y="141.66406"
+             style="font-size:20px">menu</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4238"
+           y="141.66406"
+           x="870.77985"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:20px"
+             y="141.66406"
+             x="870.77985"
+             id="tspan4240"
+             sodipodi:role="line">menu</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="965.77985"
+           y="141.66406"
+           id="text4242"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4244"
+             x="965.77985"
+             y="141.66406"
+             style="font-size:20px">menu</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="411.42337"
+       y="85.362129"
+       id="text4266"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4268"
+         x="411.42337"
+         y="85.362129">h1 a img</tspan><tspan
+         sodipodi:role="line"
+         x="411.42337"
+         y="110.36213"
+         id="tspan4270" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1113.4233"
+       y="90.362129"
+       id="text4272"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4274"
+         x="1113.4233"
+         y="90.362129">nav.main-nav ul li</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="813.5415"
+       y="263.21957"
+       id="text3458"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3460"
+         x="813.5415"
+         y="263.21957"
+         style="font-size:60px">news</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="879.80615"
+       y="223.92618"
+       id="text3462"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3464"
+         x="879.80615"
+         y="223.92618">h2</tspan><tspan
+         sodipodi:role="line"
+         x="879.80615"
+         y="248.92618"
+         id="tspan3466" /></text>
+    <g
+       id="g4305"
+       transform="translate(292.42337,497.01924)">
+      <rect
+         style="opacity:1;fill:#443322;fill-opacity:1;stroke:#000000;stroke-width:1.10920131;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3468"
+         width="1099.0677"
+         height="99.7108"
+         x="50.466114"
+         y="915.13916" />
+      <g
+         transform="translate(0,136.93228)"
+         id="g4276">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="497.62695"
+           y="833.57983"
+           id="text4270"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4272"
+             x="497.62695"
+             y="833.57983"
+             style="fill:#ffffff">copy 2019 manabox</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4274"
+           width="245.58377"
+           height="49.116756"
+           x="477.20813"
+           y="803.50391" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.07365632;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4281"
+       width="1098.5542"
+       height="970.53143"
+       x="343.14621"
+       y="428.95035" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.28127813;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4283"
+       width="773.50171"
+       height="918.21069"
+       x="351.50412"
+       y="458.48605" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.0176177;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4285"
+       width="297.9574"
+       height="712.62262"
+       x="1132.3286"
+       y="464.61545" />
+    <circle
+       style="opacity:1;fill:#00bbdd;fill-opacity:1;stroke:#000000;stroke-width:2.03332877;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4287"
+       cx="430.4263"
+       cy="524.09302"
+       r="48.983337" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="520.59485"
+       y="489.84961"
+       id="text4289"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4291"
+         x="520.59485"
+         y="489.84961" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="517.8009"
+       y="485.19305"
+       id="text4293"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4295"
+         x="517.8009"
+         y="485.19305" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.4191"
+       y="517.78894"
+       id="text4297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="509.4191"
+         y="517.78894">店内ギャラリーの絵が新しくなりました</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.00894"
+       y="553.17883"
+       id="text4301"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="509.00894"
+         y="553.17883">カテゴリー: お店の紹介</tspan></text>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4312"
+       width="742.99304"
+       height="316.97656"
+       x="368.49774"
+       y="588.30841" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4314"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(292.42337,-5.6872848e-5)"><flowRegion
+         id="flowRegion4316"><rect
+           id="rect4318"
+           width="737.92145"
+           height="428.55231"
+           x="83.681808"
+           y="920.49994" /></flowRegion><flowPara
+         id="flowPara4320">体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。 体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。</flowPara><flowPara
+         id="flowPara4322" /><flowPara
+         id="flowPara4324">体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。 体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。 体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。</flowPara><flowPara
+         id="flowPara4330" /><flowPara
+         id="flowPara4332">体に優しい自然食を提供する、WCB CAFE。</flowPara><flowPara
+         id="flowPara4326" /><flowPara
+         id="flowPara4328" /></flowRoot>    <g
+       id="g4356"
+       transform="translate(292.42337,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4336"
+         y="515.09045"
+         x="879.95459"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="515.09045"
+           x="879.95459"
+           id="tspan4338"
+           sodipodi:role="line">カテゴリー</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4340"
+         d="m 869.62246,530.58865 239.36144,0"
+         style="fill:none;stroke:#00bbdd;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4361"
+       transform="translate(292.42337,222.14118)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="879.95459"
+         y="515.09045"
+         id="text4363"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4365"
+           x="879.95459"
+           y="515.09045">このお店について</tspan></text>
+      <path
+         style="fill:none;stroke:#00bbdd;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 869.62246,530.58865 239.36144,0"
+         id="path4367"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4369"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-222.14124)"><flowRegion
+           id="flowRegion4371"><rect
+             id="rect4373"
+             width="260.02579"
+             height="306.52042"
+             x="861.01233"
+             y="773.39417" /></flowRegion><flowPara
+           id="flowPara4375"
+           style="font-size:20px">体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。</flowPara></flowRoot>    </g>
+    <g
+       id="g4388"
+       transform="translate(292.42337,0)">
+      <flowRoot
+         transform="translate(0,-5.6872848e-5)"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4342"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4344"><rect
+             y="552.97504"
+             x="864.45636"
+             height="168.75842"
+             width="253.13762"
+             id="rect4346" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara4354">・お店の紹介</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path4386"
+         d="m 863.45256,579.32071 201.50974,-0.67545"
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4395"
+       transform="translate(292.42337,29.494729)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4397"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-5.6872848e-5)"><flowRegion
+           id="flowRegion4399"><rect
+             id="rect4401"
+             width="253.13762"
+             height="168.75842"
+             x="864.45636"
+             y="552.97504" /></flowRegion><flowPara
+           id="flowPara4403"
+           style="font-size:20px">・期間限定メニュー</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 863.45256,579.32071 201.50974,-0.67545"
+         id="path4405"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(292.42337,57.638554)"
+       id="g4407">
+      <flowRoot
+         transform="translate(0,-5.6872848e-5)"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4409"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4411"><rect
+             y="552.97504"
+             x="864.45636"
+             height="168.75842"
+             width="253.13762"
+             id="rect4413" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara4415">・イベント</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path4417"
+         d="m 863.45256,579.32071 201.50974,-0.67545"
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4419"
+       transform="translate(292.42337,86.682982)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4421"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0,-5.6872848e-5)"><flowRegion
+           id="flowRegion4423"><rect
+             id="rect4425"
+             width="253.13762"
+             height="168.75842"
+             x="864.45636"
+             y="552.97504" /></flowRegion><flowPara
+           id="flowPara4427"
+           style="font-size:20px">・お客様との会話</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 863.45256,579.32071 201.50974,-0.67545"
+         id="path4429"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4090"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(321.58521,19.018537)"><flowRegion
+         id="flowRegion4092"><rect
+           id="rect4094"
+           width="185.11432"
+           height="109.03994"
+           x="-197.79338"
+           y="60.859501" /></flowRegion><flowPara
+         id="flowPara4096">div#news.big-bg</flowPara><flowPara
+         id="flowPara4098">height: 270px;</flowPara><flowPara
+         id="flowPara4100">margin-bottom: 40px;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4102"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(572.71926,-798.50802)"><flowRegion
+         id="flowRegion4104"><rect
+           id="rect4106"
+           width="205.40082"
+           height="103.96832"
+           x="-172.43524"
+           y="1406.108" /></flowRegion><flowPara
+         id="flowPara4108">footer</flowPara><flowPara
+         id="flowPara4110">  div.wrapper</flowPara><flowPara
+         id="flowPara4112">    p small</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4114"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(572.71926,-798.50802)"><flowRegion
+         id="flowRegion4116"><rect
+           id="rect4118"
+           width="199.06128"
+           height="91.289253"
+           x="-174.97107"
+           y="1491.0577" /></flowRegion><flowPara
+         id="flowPara4120">footer</flowPara><flowPara
+         id="flowPara4122">background-color: #432;</flowPara><flowPara
+         id="flowPara4124">text-align: center;</flowPara><flowPara
+         id="flowPara4126">padding: 26px 0;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4128"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(572.71926,-798.50802)"><flowRegion
+         id="flowRegion4130"><rect
+           id="rect4132"
+           width="199.03302"
+           height="84.275238"
+           x="-180.20557"
+           y="1590.2892" /></flowRegion><flowPara
+         id="flowPara4134">footer p</flowPara><flowPara
+         id="flowPara4136">color: #fff;</flowPara><flowPara
+         id="flowPara4138">font-size: 0.875rem;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(214.96629,-143.15406)"><flowRegion
+         id="flowRegion4142"><rect
+           id="rect4144"
+           width="256.3432"
+           height="282.37811"
+           x="-186.48138"
+           y="480.36639" /></flowRegion><flowPara
+         id="flowPara4146">html</flowPara><flowPara
+         id="flowPara4221">div.news-content wrapper</flowPara><flowPara
+         id="flowPara4150">  article</flowPara><flowPara
+         id="flowPara4154">    header.post-info</flowPara><flowPara
+         id="flowPara4205">      h2.post-title</flowPara><flowPara
+         id="flowPara4223">      p.post-date</flowPara><flowPara
+         id="flowPara4225">         span</flowPara><flowPara
+         id="flowPara4156">      p.post-cat</flowPara><flowPara
+         id="flowPara4229">    img</flowPara><flowPara
+         id="flowPara4272">    p</flowPara><flowPara
+         id="flowPara4274">    p</flowPara><flowPara
+         id="flowPara4276">    p</flowPara><flowPara
+         id="flowPara4227" /><flowPara
+         id="flowPara4152" /><flowPara
+         id="flowPara4148" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4158"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(323.42337,89.999943)"><flowRegion
+         id="flowRegion4160"><rect
+           id="rect4162"
+           width="224.13628"
+           height="125.51631"
+           x="-192.7572"
+           y="606.77924" /></flowRegion><flowPara
+         id="flowPara4164">article</flowPara><flowPara
+         id="flowPara4166">width: 74%;</flowPara><flowPara
+         id="flowPara4168">aside</flowPara><flowPara
+         id="flowPara4170">width: 22%;</flowPara></flowRoot>    <flowRoot
+       transform="translate(296.10966,112.8599)"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4172"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4174"><rect
+           y="480.36639"
+           x="-186.48138"
+           height="161.37811"
+           width="222.34319"
+           id="rect4176" /></flowRegion><flowPara
+         id="flowPara4184">.news-content</flowPara><flowPara
+         id="flowPara4199">dixplay: flex;</flowPara><flowPara
+         id="flowPara4201">space-between;</flowPara><flowPara
+         id="flowPara4203">margin-bottom: 50px;</flowPara><flowPara
+         id="flowPara4186" /><flowPara
+         id="flowPara4188" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4207"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(292.42337,-5.6872848e-5)"><flowRegion
+         id="flowRegion4209"><rect
+           id="rect4211"
+           width="190"
+           height="132"
+           x="-214"
+           y="826.36218" /></flowRegion><flowPara
+         id="flowPara4213">.post-info</flowPara><flowPara
+         id="flowPara4215">position: relative;</flowPara><flowPara
+         id="flowPara4217">padding-top: 4px;</flowPara><flowPara
+         id="flowPara4219">margin-bottom: 40px;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4231"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(292.42337,-5.6872848e-5)"><flowRegion
+         id="flowRegion4233"><rect
+           id="rect4235"
+           width="188"
+           height="106"
+           x="-220"
+           y="928.36218" /></flowRegion><flowPara
+         id="flowPara4237">.post-date</flowPara><flowPara
+         id="flowPara4239">position: absolute;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4241"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(290.68275,-19.146825)"><flowRegion
+         id="flowRegion4243"><rect
+           id="rect4245"
+           width="201"
+           height="109"
+           x="-219"
+           y="1006.3622" /></flowRegion><flowPara
+         id="flowPara4247">.post-title</flowPara><flowPara
+         id="flowPara4249">.post-cat</flowPara><flowPara
+         id="flowPara4251">margin-left: 120px;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(465.96629,-6.1540612)"><flowRegion
+         id="flowRegion4280"><rect
+           id="rect4282"
+           width="247"
+           height="238"
+           x="-223"
+           y="350.36218" /></flowRegion><flowPara
+         id="flowPara4284">aside</flowPara><flowPara
+         id="flowPara4288">h3.sub-title</flowPara><flowPara
+         id="flowPara4292">ul</flowPara><flowPara
+         id="flowPara4294">  li</flowPara><flowPara
+         id="flowPara4296">  li</flowPara><flowPara
+         id="flowPara4298">  li</flowPara><flowPara
+         id="flowPara4300" /><flowPara
+         id="flowPara4302">h3</flowPara><flowPara
+         id="flowPara4304">p</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3514"
+       width="313.31073"
+       height="1023.4818"
+       x="15.665538"
+       y="30.62096" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3515"
+       y="200.24274"
+       x="164.256"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="200.24274"
+         x="164.256"
+         id="tspan3517"
+         sodipodi:role="line">h1 a img</tspan><tspan
+         id="tspan3519"
+         y="225.24274"
+         x="164.256"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>

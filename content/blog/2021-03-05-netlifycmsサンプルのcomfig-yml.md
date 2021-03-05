@@ -1,10 +1,44 @@
 ---
-title: netlifycmsサンプルのcomfig.yml
+title: netlifycmsのconfig.ymlのサンプル
 date: 2021-03-05T13:24:32.540Z
-description: netlifycmsの公式サンプルのconfig.ymlです。
+description: netlifycmsのサンプルのconfig.ymlです。公式ドキュメントのサンプル，公式のサンプルwebサイトのconfig.ymlです。
 tags:
   - netlifycms
 ---
+### netlifycms公式のcollection-types
+<https://www.netlifycms.org/docs/collection-types/>
+```
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "site/content/about.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+      - label: "Locations Page"
+        name: "locations"
+        file: "site/content/locations.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Locations
+            name: locations
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Address, name: address, widget: string}
+```
+
 ### config.yml
 ```
 backend:
@@ -99,3 +133,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/_index.md"
 ```
 つまり，pageの新規作成はできないようだ。
+
+そもそも，folderにfileを入れたら，それはsectionである。
+
+regular pageではない。

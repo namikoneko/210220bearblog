@@ -1,5 +1,6 @@
 ---
 title: netlifycmsのconfig.ymlのサンプル
+slug: netlifycms-configyml-sample
 date: 2021-03-05T13:24:32.540Z
 description: netlifycmsのサンプルのconfig.ymlです。公式ドキュメントのサンプル，公式のサンプルwebサイトのconfig.ymlです。
 tags:
@@ -137,3 +138,9 @@ collections: # A list of collections the CMS should be able to edit
 そもそも，folderにfileを入れたら，それはsectionである。
 
 regular pageではない。
+
+### 210306
+
+regularpageを編集できるように，netlifycmsに追加した。
+
+（content直下のhugo.md）

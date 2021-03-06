@@ -27,5 +27,8 @@ date: 2021-03-06T11:02:18.069Z
 ## youtube
 [youtube](https://210220bearblog.netlify.app/blog/youtube/)
 
+## gamebook
+[gamebook](https://210220bearblog.netlify.app/blog/gamebook/)
+
 ## 日記
 [diary](https://210220bearblog.netlify.app/blog/diary/)

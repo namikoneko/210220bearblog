@@ -1,26 +1,31 @@
-+++
-title = "Hugo"
-menu = "main"
-+++
+---
+title: Hugo
+menu: main
+date: 2021-03-06T11:02:18.069Z
+---
+## ブログ
+[hugo](https://210220bearblog.netlify.app/blog/hugo/)
 
-# Hugo
+[netlifycms](https://210220bearblog.netlify.app/blog/netlifycms/)
 
-Website: https://gohugo.io
+[wordpress](https://210220bearblog.netlify.app/blog/wordpress/)
 
-Written in Go, Hugo is an open-source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.
+## server
+[docker](https://210220bearblog.netlify.app/blog/docker/)
 
-Hugo makes use of a variety of open source projects including:
+## programing一般
+[python](https://210220bearblog.netlify.app/blog/python/)
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+[programing](https://210220bearblog.netlify.app/blog/programing/)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single-page applications, or even a website with thousands of pages.
+## webdesign,web制作
+[webdesign](https://210220bearblog.netlify.app/blog/webdesign/)
 
-Hugo is for people who want to hand-code their own website without worrying about setting up complicated runtimes, dependencies, and databases.
+## 画像
+[svg](https://210220bearblog.netlify.app/blog/svg/)
 
-Websites built with Hugo are swift, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify, and any other hosting provider.
+## youtube
+[youtube](https://210220bearblog.netlify.app/blog/youtube/)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 日記
+[diary](https://210220bearblog.netlify.app/blog/diary/)

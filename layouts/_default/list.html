@@ -7,7 +7,7 @@
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ range .Paginator.Pages }}
     <li>
       <span>
         <i>
@@ -33,6 +33,8 @@
         {{ end }}
       </div>
     </small>
-    {{ end }}
+  {{ end }}
+  {{ $paginator := .Pages }}
+  {{ template "_internal/pagination.html" . }}
 </content>
 {{ end }}

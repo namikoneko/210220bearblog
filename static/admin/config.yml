@@ -24,7 +24,7 @@ collections:
     files:
       - label: "hugo"
         name: "hugo"
-        file: "site/content/hugo.md"
+        file: "content/hugo.md"
         fields:
           - {label: Title, name: title, widget: string}
           - { label: "slug", name: "slug", widget: "string" }

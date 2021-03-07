@@ -11,4 +11,6 @@ tags:
 <https://qiita.com/tomokei5634/items/231c6bba9842214364dd>
 
 ### メモ
-このサイトのとおりにやる
+wp-config.phpに１行追加する
+
+これでできた

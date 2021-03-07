@@ -7,7 +7,7 @@
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Paginator.Pages }}
+    {{ range (.Paginator 20).Pages }}
     <li>
       <span>
         <i>

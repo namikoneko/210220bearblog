@@ -21,7 +21,15 @@ Download the appropriate version for your platform from Hugo Releases. Once down
 
 `sudo dnf install hugo`
 
-dnfとは？
+### [CentOS8] yum を愛するあなたに送る、 dnf 乗り換え講座 | 株式会社ビヨンド
+<https://beyondjapan.com/blog/2019/12/centos8-dnf/>
+>yum コマンドが廃止になります  
+>これはご存じの方ならばやっとかといったところかも知れませんが、 yum コマンドが廃止されます。
+パッケージはどうやって管理するんだ、というところが心配になりますが、安心してください。  
+ちゃんと後継のパッケージ管理システムがちゃんと用意されています！
+
+>その後継ツールが dnf です。
+
 
 ## UbuntuへHugoをインストール
 <https://odaryo.hatenablog.com/entry/2020/06/25/161545>

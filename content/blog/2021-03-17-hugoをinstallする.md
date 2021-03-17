@@ -21,6 +21,22 @@ Download the appropriate version for your platform from Hugo Releases. Once down
 
 `sudo dnf install hugo`
 
+### Linuxにソフトウェアをインストールするには？ | クロの思考ノート
+<http://note.kurodigi.com/post-0-15/>
+>#3 ネットからバイナリファイルをダウンロードする
+この方法はソースが公開されていなかったり、ライセンスの問題が絡んでるソフトに多いです。ここではSkypeを例に上げて見てみましょう。
+>公式サイトからskype-4.2.0.13.tar.bz2ファイルをダウンロードします。
+
+
+
+>これはdebやrpmパッケージじゃないので上記のようなインストール方法ができません。
+以下コマンドで解凍して中身を見てみましょう。
+
+>$ tar -jxf skype-4.2.0.13.tar.bz2
+中にはこんなバイナリファイルが入ってます。
+
+
+>これをREADMEファイルの中身を読んで、自分でディレクトリにコピーする作業がインストール作業です。
 ### [CentOS8] yum を愛するあなたに送る、 dnf 乗り換え講座 | 株式会社ビヨンド
 <https://beyondjapan.com/blog/2019/12/centos8-dnf/>
 >yum コマンドが廃止になります  

@@ -54,3 +54,10 @@ $ wget https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_extended_
 ```
 ## メモ
 VPSのcentosでhugoを使うことを考えていて，centosにhugoをインストールする方法を調べた。
+
+## 再考
+サーバー管理の手間と月々の費用から，VPSは消極に思うようになった。
+
+記事は，非公開のwordpressにコードとして書いて，後でローカルPCにコピペする。
+
+または，githubに直接書く。front matterをきちんと書くことが必要になる。

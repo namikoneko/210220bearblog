@@ -61,3 +61,7 @@ VPSのcentosでhugoを使うことを考えていて，centosにhugoをインス
 記事は，非公開のwordpressにコードとして書いて，後でローカルPCにコピペする。
 
 または，githubに直接書く。front matterをきちんと書くことが必要になる。
+
+githubなら，markdownで書いてプレビューもできる。
+
+本番リポジトリではなく，下書き用のリポジトリに書いてもいい。  commitがごちゃごちゃになるのを避けるために。

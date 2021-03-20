@@ -15,3 +15,9 @@ CMSにする必要がある。
 1. 記事の新規作成には、forestryを使う
 1. これをgithubにあげる（連携させる）
 1. xserverとgithubを、github actionsでrsyncさせる
+
+【便利】GitHub Actionsを使ってレンタルサーバーにSSHでデプロイする方法 | カフーブログ
+
+<https://kahoo.blog/github-actions-php-deploy/#SSHGitHub>
+
+わかりやすく書いてある

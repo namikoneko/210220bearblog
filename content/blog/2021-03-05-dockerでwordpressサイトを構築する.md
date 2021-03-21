@@ -22,3 +22,7 @@ At this point, WordPress should be running on port 8000 of your Docker Host
 ## 参考site
 
 <https://briarpatch.co.jp/wordpress-docker#toc11>
+
+## volumnのデータ永続化について
+
+<https://karuta-kayituka.hatenablog.com/entry/2019/05/04/114056>

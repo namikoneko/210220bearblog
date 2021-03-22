@@ -6,7 +6,47 @@ description: netlifycmsのサンプルのconfig.ymlです。公式ドキュメ�
 tags:
   - netlifycms
 ---
-### netlifycms公式のcollection-types
+## 現在のconfig.toml
+
+/static/admin/config.yml
+
+```
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    #    editor:
+    #      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "slug", name: "slug", widget: "string" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: "tags", name: "tags", widget: "list", default: ["diary"] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "hugo"
+        name: "hugo"
+        file: "content/hugo.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+```
+
+
+
+## netlifycms公式のcollection-types
 <https://www.netlifycms.org/docs/collection-types/>
 ```
 collections:
@@ -40,7 +80,7 @@ collections:
               - {label: Address, name: address, widget: string}
 ```
 
-### config.yml
+## サンプルのconfig.yml
 ```
 backend:
   name: git-gateway
@@ -126,7 +166,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
 ```
 
-### メモ
+## メモ
 `name: "pages"`は，fileを固定で指定していた。
 
 ```
@@ -139,7 +179,7 @@ collections: # A list of collections the CMS should be able to edit
 
 regular pageではない。
 
-### 210306
+## 210306
 
 regularpageを編集できるように，netlifycmsに追加した。
 

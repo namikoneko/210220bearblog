@@ -12,6 +12,15 @@ For a quick cheatsheet, check out https://simplemde.com/markdown-guide.
 
 ---
 
+<div class="text-sm">
+aaa
+</div>
+<div class="text-base">
+bbb
+</div>
+<div class="text-lg">
+bbb
+</div>
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 

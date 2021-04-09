@@ -10,6 +10,10 @@ tags:
 
 <https://gihyo.jp/admin/serial/01/ubuntu-recipe/0626>
 
+## Wine 4 を利用してmacOSでWindowsアプリを動かそう
+
+<https://weblabo.oscasierra.net/wine4-macos/>
+
 ## Wine 3 を利用してmacOSでWindowsアプリを動かそう
 
 <https://weblabo.oscasierra.net/wine3-macos/>

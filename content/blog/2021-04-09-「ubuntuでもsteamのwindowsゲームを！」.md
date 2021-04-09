@@ -9,3 +9,7 @@ tags:
 ## 第626回　UbuntuでもSteamのWindowsゲームを！
 
 <https://gihyo.jp/admin/serial/01/ubuntu-recipe/0626>
+
+## Wine 3 を利用してmacOSでWindowsアプリを動かそう
+
+<https://weblabo.oscasierra.net/wine3-macos/>

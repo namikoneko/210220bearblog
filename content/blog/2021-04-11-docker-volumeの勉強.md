@@ -75,3 +75,9 @@ docker run -it --volumes-from datacon01 --name testcon01 docker.io/centos:latest
 別のcentosコンテナを起動，`--volumes-from`で，データコンテナ名を指定する
 
 centosコンテナ内に`/data01`ディレクトリができており，データコンテナの`/data01`と，データを共有している
+
+## メモ
+
+- -v, または--volumeで，コンテナ内に，データ共有用のディレクトリを作成する
+- ホストとの共有であれば，`/var/lib/docker/volumes`に，ホスト側の共有ディレクトリができる
+- 他のコンテナとの共有なら，他のコンテナを，`--volumes-from データコンテナ`で起動すれば，自動的に，データコンテナの共有ディレクトリと同じパスのディレクトリが作られて，共有ディレクトリになる

@@ -57,3 +57,21 @@ volumeのnameを指定しなかった場合，ハッシュ値の名前が振ら�
 **永続ボリュームはホスト側の /var/lib/docker/volumes などに作成されます**。  
 docker run の -v オプションでは 「-v ボリューム名:マウントポイント」 でボリューム名を指定することができましたが、VOLUME ではマウントポイントしか指定することはできず、名前付きボリュームを割り当てることはできません。  
 VOLUME でマウントしたボリュームは、df コマンドに -a オプションをつけないと表示されないことがあります。
+
+##  Dockerでデータ専用コンテナを作ろう
+
+<https://www.nedia.ne.jp/blog/tech/2019/11/11/15573>
+
+```
+docker container run -it -v /data01 --name datacon01 busybox /bin/sh
+```
+
+コンテナ内の/data01を共有ディレクトリにして，busyboxを起動
+
+```
+docker run -it --volumes-from datacon01 --name testcon01 docker.io/centos:latest /bin/bash
+```
+
+別のcentosコンテナを起動，`--volumes-from`で，データコンテナ名を指定する
+
+centosコンテナ内に`/data01`ディレクトリができており，データコンテナの`/data01`と，データを共有している

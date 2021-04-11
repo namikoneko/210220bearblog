@@ -32,3 +32,18 @@ docker inspect sample
         ],
 ```
 
+```
+$ docker run -d --name sample -v my-vol:/app nginx:latest
+```
+
+別のコンテナを作るとき，作成済みのvolumeを指定できるらしい
+
+```
+docker run -d --name sample2 -v /app nginx:latest
+```
+
+volumeのnameを指定しなかった場合，ハッシュ値の名前が振られる
+
+```
+                "Name": "a41506ad65ef324b213c6dd6cb246532a264193e8fe6fcda25829119817a0ec5",
+```

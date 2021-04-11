@@ -47,3 +47,13 @@ volumeのnameを指定しなかった場合，ハッシュ値の名前が振ら�
 ```
                 "Name": "a41506ad65ef324b213c6dd6cb246532a264193e8fe6fcda25829119817a0ec5",
 ```
+
+## Dockerfileによるビルド とほほのDocker入門
+
+<http://www.tohoho-web.com/docker/dockerfile.html>
+
+>VOLUME  
+コンテナ起動時に永続ボリュームを割り当てます。  
+**永続ボリュームはホスト側の /var/lib/docker/volumes などに作成されます**。  
+docker run の -v オプションでは 「-v ボリューム名:マウントポイント」 でボリューム名を指定することができましたが、VOLUME ではマウントポイントしか指定することはできず、名前付きボリュームを割り当てることはできません。  
+VOLUME でマウントしたボリュームは、df コマンドに -a オプションをつけないと表示されないことがあります。

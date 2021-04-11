@@ -22,3 +22,11 @@ At this point, WordPress should be running on port 8000 of your Docker Host
 ## 参考site
 
 <https://briarpatch.co.jp/wordpress-docker#toc11>
+
+## メモ
+
+210412, play with dockerで試した
+
+docker-compose.ymlのversionを3.3に変更しろ，とエラーメッセージが出た
+
+そのとおりに変更したら，できた

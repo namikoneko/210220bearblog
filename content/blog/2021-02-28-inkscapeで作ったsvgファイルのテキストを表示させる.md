@@ -8,17 +8,17 @@ tags:
 
 参考サイトのコードを、一部改変した
 
-svgファイルは、staticディレクトリに置く
+svgファイルは、static/imgディレクトリに置く
 
 ## コード
 
+```
 {{- $src := .Get "src" }}  
 {{- $title := .Get "title" }}
 
-{{- /* staticディレクトリのsvgファイルを参照する*/}}  
-{{- $svgFile := path.Join ("static/") $src }}
+{{- /* static/imgディレクトリに置く */}}  
+{{- $svgFile := path.Join ("static/img/") $src }}
 
-'''
 <figure class="xImage">
   <a href="{{ $src }}" target="_blank">
     {{ readFile $svgFile | safeHTML }}
@@ -27,7 +27,7 @@ svgファイルは、staticディレクトリに置く
   <figcaption>図: {{ . }}</figcaption>
   {{- end }}
 </figure>
-'''
+```
 
 ## SVGファイルをインラインで埋め込むショートコードを作成する 
 

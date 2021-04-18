@@ -1,8 +1,8 @@
 {{- $src := .Get "src" }}
 {{- $title := .Get "title" }}
 
-{{- /* md ファイルからの相対パスで svg ファイル名を指定できるように */}}
-{{- $svgFile := path.Join ("static/") $src }}
+{{- /* static/img/に置く */}}
+{{- $svgFile := path.Join ("static/img/") $src }}
 
 <figure class="xImage">
   <a href="{{ $src }}" target="_blank">

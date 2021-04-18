@@ -10,6 +10,8 @@ tags = [
 
 For a quick cheatsheet, check out https://simplemde.com/markdown-guide.
 
+{{< svg src="hosi.svg" title="サンプル画像" >}}
+
 ---
 
 <div class="text-sm">

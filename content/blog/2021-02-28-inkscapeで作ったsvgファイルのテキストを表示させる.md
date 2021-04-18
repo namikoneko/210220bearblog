@@ -1,20 +1,34 @@
 ---
-title: inkscapeで作ったsvgファイルのテキストを表示させる
+title: hugoでinkscapeで作ったsvgファイルを表示させる
 date: 2021-02-28T10:14:43.172Z
 description: hugoをいじっているときに気づいたことのメモです。
 tags:
   - hugo
 ---
-### inkscapeで作ったsvgファイルのテキストを表示させる
 
-inkscapeで作成したsvgファイルの、テキストが、表示されたりされなかったりした。
+参考サイトのコードを、一部改変した
 
-試したところ、テキストツールで最初にドラッグすると、表示されない。
+svgファイルは、staticディレクトリに置く
 
-クリックするだけで、1行前提？の場合、表示された。
+## コード
 
-この場合でも、改行すれば複数行になるので、不都合はない。
+{{- $src := .Get "src" }}  
+{{- $title := .Get "title" }}
 
-vimでソースのタグを見て、表示されるものとされないものの違いを見て実験してみたらわかった。
+{{- /* staticディレクトリのsvgファイルを参照する*/}}  
+{{- $svgFile := path.Join ("static/") $src }}
 
-これを、netlifycmsで、このブログにアップしている。
+'''
+<figure class="xImage">
+  <a href="{{ $src }}" target="_blank">
+    {{ readFile $svgFile | safeHTML }}
+  </a>
+  {{- with $title }}
+  <figcaption>図: {{ . }}</figcaption>
+  {{- end }}
+</figure>
+'''
+
+## SVGファイルをインラインで埋め込むショートコードを作成する 
+
+<https://maku77.github.io/hugo/shortcode/inline-svg.html>

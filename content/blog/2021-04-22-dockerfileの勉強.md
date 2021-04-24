@@ -15,3 +15,7 @@ CMD ["/usr/sbin/httpd", "-DFOREGROUND"]
 play with dockerで，このDockerfileで，httpdの動作確認ができた
 
 centosのバージョンは（あえて）つけていない
+
+## Dockerfileの書き方と使い方 | CodeCampus
+
+<https://blog.codecamp.jp/docker-file-how-to>

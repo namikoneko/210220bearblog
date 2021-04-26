@@ -14,3 +14,7 @@ tags:
 >add a method keyword argument to the route() decorator or use one of the five alternative decorators: get(), post(), put(), delete() or patch().
 
 get,post,put,delete,patchが使えるらしい
+
+## Bottle（pythonフレームワーク）のチュートリアル日本語訳
+
+<https://qiita.com/kouchou/items/5643b1fefde1390f9c63>

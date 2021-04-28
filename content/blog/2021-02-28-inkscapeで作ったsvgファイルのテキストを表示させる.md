@@ -1,5 +1,6 @@
 ---
-title: hugoでinkscapeで作ったsvgファイルを表示させる
+title: hugoでinkscapeで作ったsvgファイルを表示させるショートコードを書いた
+slug: hugo-svgfile
 date: 2021-02-28T10:14:43.172Z
 description: hugoをいじっているときに気づいたことのメモです。
 tags:

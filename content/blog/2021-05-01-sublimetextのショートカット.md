@@ -12,7 +12,10 @@ tags:
 
 >行の移動  
 Ctrl + Cmd + ↑ or ↓
-  
+
+>現在行を複製(下の行に挿入される)  
+Cmd + Shift + D
+
 >行の削除  
 Ctrl + K  
 

@@ -65,4 +65,14 @@ data = dict(title='210503test')
 table.insert(data)
 ```
 
+### update
+
+```
+data = dict(id=11, title='now updated!')
+table.update(data, ['id'])
+```
+
+フィールド名と値で、dict(dictionary)を作って、keyとなるフィールドを指定する
+
+上の例だと、idが11のレコードはすべてupdateされる
 

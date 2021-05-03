@@ -6,6 +6,10 @@ description: pythonのormのdatasetの使い方の備忘です。
 tags:
   - python
 ---
+## ディレクトリとファイル
+
+/Users/takashi/Downloads/python/200907/flaskworks/create.py
+
 ## 公式
 
 ### quickstart

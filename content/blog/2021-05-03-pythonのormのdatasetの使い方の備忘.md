@@ -25,17 +25,24 @@ updated text
 );
 ```
 
+## dataset
+
 ### 簡単なコード例
 
 ```python
 import dataset
 
+#dbに接続
 db = dataset.connect('sqlite:///test.db')
-table = db["test"]#test table
 
-for user in db["test"]:
-    print(user["id"])
+table = db["thread"]#table thread
+
+for row in db["thread"]:
+    print(row["id"])
 ```
 
 sqliteのファイル、test.db
-table、user
+
+tableは、thread
+
+idフィールドを表示している

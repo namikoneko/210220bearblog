@@ -95,8 +95,19 @@ datasetそのものには、どうやらあいまい検索はないらしい（�
 
 SQLAlchemy core APIにアクセスして、より複雑なクエリを構築できる
 
+### Running custom SQL queries
 
-### ここからは公式サイトを参考にした
+複雑なクエリをしたいときは、公式にもあるように、SQLを書いてしまった方がいいと思う
+
+DBのデータ取得で悩んでも仕方がない
+
+```
+result = db.query('SELECT country, COUNT(*) c FROM user GROUP BY country')
+for row in result:
+   print(row['country'], row['c'])
+```
+
+### ここからは公式サイトのみを参考にした
 
 ### limit
 

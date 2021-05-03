@@ -76,3 +76,29 @@ table.update(data, ['id'])
 
 上の例だと、idが11のレコードはすべてupdateされる
 
+### limit
+
+```
+results = table.find(country='France', _limit=10)
+```
+
+公式サイトの例
+
+### find_one
+
+```
+row = table.find_one(country='United States')
+```
+
+公式サイトの例
+
+### order_by
+
+```
+# sort results by a column 'year'
+results = table.find(country='France', order_by='year')
+# return all rows sorted by multiple columns (descending by year)
+results = table.find(order_by=['country', '-year'])
+```
+
+公式サイトの例

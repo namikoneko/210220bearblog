@@ -8,7 +8,11 @@ tags:
 ---
 ## 公式
 
+### quickstart
 <https://dataset.readthedocs.io/en/latest/quickstart.html>
+
+### api
+<https://dataset.readthedocs.io/en/latest/api.html>
 
 ## SQL備忘
 
@@ -46,3 +50,19 @@ sqliteのファイル、test.db
 tableは、thread
 
 idフィールドを表示している
+
+### delete
+
+```
+table.delete(id=10)
+```
+idが10のレコードを削除
+
+### insert
+
+```
+data = dict(title='210503test')
+table.insert(data)
+```
+
+

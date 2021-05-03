@@ -76,6 +76,28 @@ table.update(data, ['id'])
 
 上の例だと、idが11のレコードはすべてupdateされる
 
+### あいまい検索
+
+```
+table = db['thread'].table
+statement = table.select(table.c.title.like('%update%'))
+rows = db.query(statement)
+```
+
+datasetそのものには、どうやらあいまい検索はないらしい（下記引用部分参照）
+
+1行目、最後になぜ`.table`をつけるのかは、よくわからない
+
+2行目のかっこの中、`table.c.title.like('%update%')`は、cはカラムの意味、`title`はカラム名ではないかと思う  
+（公式サイトでは、`title`が`name`になっており、このnameがdatasetの中で機能的な意味があるのか、単なるカラム名なのか、すごく悩んだ）
+
+>The query() method can also be used to access the underlying SQLAlchemy core API, which allows for the programmatic construction of more complex queries:
+
+SQLAlchemy core APIにアクセスして、より複雑なクエリを構築できる
+
+
+### ここからは公式サイトを参考にした
+
 ### limit
 
 ```
@@ -102,3 +124,7 @@ results = table.find(order_by=['country', '-year'])
 ```
 
 公式サイトの例
+
+複数カラムでのsortもできる
+
+逆順の場合、カラム名にマイナスをつける

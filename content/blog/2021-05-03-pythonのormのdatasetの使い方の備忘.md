@@ -152,3 +152,17 @@ table.insert(dict(name='Jane Doe', age=37, country='France', gender='female'))
 ```
 
 insert時に，存在しないカラムを指定すると，いつでもカラムを追加できるらしい
+
+### テーブル，カラム，レコードを
+```
+>>> print(db.tables)
+[u'user']
+Now, let’s list all columns available in the table user:
+
+>>> print(db['user'].columns)
+[u'id', u'country', u'age', u'name', u'gender']
+Using len() we can get the total number of rows in a table:
+
+>>> print(len(db['user']))
+2
+```

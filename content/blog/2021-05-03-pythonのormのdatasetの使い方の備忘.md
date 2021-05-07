@@ -143,3 +143,12 @@ results = table.find(order_by=['country', '-year'])
 複数カラムでのsortもできる
 
 逆順の場合、カラム名にマイナスをつける
+
+### カラム追加
+
+```
+# dataset will create "missing" columns any time you insert a dict with an unknown key  
+table.insert(dict(name='Jane Doe', age=37, country='France', gender='female'))
+```
+
+insert時に，存在しないカラムを指定すると，いつでもカラムを追加できるらしい

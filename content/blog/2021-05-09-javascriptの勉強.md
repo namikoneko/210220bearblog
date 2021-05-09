@@ -29,3 +29,22 @@ alert(multiple(3));
 ```
 
 JavaScript Primer,p73
+
+## findメソッド
+
+```javascript
+const colors = [
+    {"color": "red"},
+    {"color": "green"},
+    {"color": "blue"}
+];
+
+const blueColor = colors.find((obj) => {//findで，配列のそれぞれをobjに代入する
+    return obj.color === "blue";//objのcolorがblueと等しければreturnする
+});
+console.log(blueColor);
+```
+
+
+
+JavaScript Primer,p133

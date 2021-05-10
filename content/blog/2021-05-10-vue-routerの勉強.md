@@ -10,10 +10,6 @@ tags:
 
 <https://router.vuejs.org/ja/guide/#html>
 
-### 名前付きルート
-
-<https://router.vuejs.org/ja/guide/essentials/named-routes.html>
-
 ### html
 ```html
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
@@ -65,3 +61,35 @@ const app = new Vue({
 }).$mount('#app')
 
 ```
+
+### 動的ルートマッチング
+
+<https://router.vuejs.org/ja/guide/essentials/dynamic-matching.html>
+
+```javascript
+  routes: [
+    // コロンで始まる動的セグメント
+    { path: '/user/:id', component: User }
+  ]
+})
+```
+
+
+これで /user/foo や /user/bar などの URL 両方とも同じルートにマッチします。
+
+
+
+動的セグメントはコロン : を使って表されます。ルートがマッチした時、この動的セグメントの値は全てのコンポーネント内で this.$route.params として利用可能になります。
+
+したがって、現在の User のテンプレートを次のように更新することで現在のユーザー ID を表示することができます。
+
+```javascript
+
+const User = {
+  template: '<div>User {{ $route.params.id }}</div>'
+}
+```
+
+### 名前付きルート
+
+<https://router.vuejs.org/ja/guide/essentials/named-routes.html>

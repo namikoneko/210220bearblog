@@ -10,6 +10,10 @@ tags:
 
 <https://router.vuejs.org/ja/guide/#html>
 
+### 名前付きルート
+
+<https://router.vuejs.org/ja/guide/essentials/named-routes.html>
+
 ### html
 ```html
 <script src="https://unpkg.com/vue/dist/vue.js"></script>

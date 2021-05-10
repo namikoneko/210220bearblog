@@ -93,3 +93,7 @@ const User = {
 ### 名前付きルート
 
 <https://router.vuejs.org/ja/guide/essentials/named-routes.html>
+
+### ルートコンポーネントにプロパティを渡す（propsの話）
+
+<https://router.vuejs.org/ja/guide/essentials/passing-props.html>

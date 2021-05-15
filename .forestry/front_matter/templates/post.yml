@@ -16,3 +16,5 @@ fields:
   config:
     required: false
   label: slug
+pages:
+- content/blog/forestry-netlify.md

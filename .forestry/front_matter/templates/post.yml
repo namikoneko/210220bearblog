@@ -17,5 +17,6 @@ fields:
     required: false
   label: slug
 pages:
+- content/blog/210516test.md
 - content/blog/forestry-netlify.md
 - content/blog/unity-unity5.md

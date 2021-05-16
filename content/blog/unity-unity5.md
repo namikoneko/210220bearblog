@@ -1,6 +1,6 @@
 ---
 title: unityの勉強（Unity5の教科書）
-slug: study-unity-210516
+slug: study-unity-kyokasho
 date: 2021-05-16T15:00:00.000Z
 description: unityの勉強（Unity5の教科書）
 tags:

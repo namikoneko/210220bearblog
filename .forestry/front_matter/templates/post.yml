@@ -16,6 +16,11 @@ fields:
   config:
     required: false
   label: slug
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
 pages:
 - content/blog/210516test.md
 - content/blog/forestry-netlify.md

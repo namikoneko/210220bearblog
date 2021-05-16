@@ -1,6 +1,5 @@
 +++
 date = 2021-05-16T15:00:00Z
-draft = true
 slug = "study-unity-210516"
 tags = ["unity"]
 title = "unityの勉強（Unity5の教科書）"

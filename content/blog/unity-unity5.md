@@ -1,10 +1,11 @@
-+++
-date = 2021-05-16T15:00:00Z
-slug = "study-unity-210516"
-tags = ["unity"]
-title = "unityの勉強（Unity5の教科書）"
-
-+++
+---
+title: unityの勉強（Unity5の教科書）
+slug: study-unity-210516
+date: 2021-05-16T15:00:00.000Z
+description: unityの勉強（Unity5の教科書）
+tags:
+  - unity
+---
 ## 感想
 
 圧縮するとローカルサーバで動かなかったので，圧縮なしにした
@@ -25,4 +26,4 @@ title = "unityの勉強（Unity5の教科書）"
 
 ### Unityでビルドして実機のiPhoneで動かすと初期画面(青い画面)が表示される | ダボハゼのブログ
 
-<[https://dabohaze.site/unity-iphone-initial-screen/](https://dabohaze.site/unity-iphone-initial-screen/ "https://dabohaze.site/unity-iphone-initial-screen/")
+<https://dabohaze.site/unity-iphone-initial-screen/>

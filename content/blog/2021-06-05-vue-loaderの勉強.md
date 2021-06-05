@@ -39,5 +39,27 @@ componentsをこんな感じで書く
 ### 公式ドキュメント
 <https://vue-loader.vuejs.org/?#what-is-vue-loader>
 
+```html
+<template>
+  <div class="example">{{ msg }}</div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      msg: 'Hello world!'
+    }
+  }
+}
+</script>
+
+<style>
+.example {
+  color: red;
+}
+</style>
+```
+
 ### github
 <https://github.com/vuejs/vue-loader>

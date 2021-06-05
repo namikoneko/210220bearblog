@@ -63,3 +63,7 @@ export default {
 
 ### github
 <https://github.com/vuejs/vue-loader>
+
+サンプルコードがある
+
+<https://github.com/FranckFreiburger/http-vue-loader/blob/master/README.md#more-examples>

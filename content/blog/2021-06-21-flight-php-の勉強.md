@@ -14,9 +14,11 @@ tags:
 Flight::render('header', array('heading' => 'Hello'), 'header_content');
 Flight::render('body', array('body' => 'World'), 'body_content');
 ```
+第1引数がファイル名，第2引数が，連想配列で変数に文字列データを入れる，第3引数は，このファイル全体を，この引数でechoで呼び出せるようになる
 ```php
 Flight::render('layout', array('title' => 'Home Page'));
 ```
+通常どおり，第1引数がファイル名，第2引数で，変数に文字列データを入れる
 ### header.php:
 
 ```php

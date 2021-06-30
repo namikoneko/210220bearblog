@@ -6,6 +6,18 @@ description: docker volumeの勉強です。
 tags:
   - docker
 ---
+### バインドマウントの利用（公式）
+
+<https://matsuand.github.io/docs.docker.jp.onthefly/storage/bind-mounts/>
+
+```
+docker run -d \
+  -it \
+  --name devtest \
+  -v "$(pwd)"/target:/app \
+  nginx:latest
+```
+
 ## dockerコンテナのデータを永続化する方法
 
 <https://tech-blog.rakus.co.jp/entry/20200331/docker>

@@ -1,5 +1,5 @@
 ---
-title: php（flight）のアプリ
+title: php（flight）のアプリを作ったときの備忘
 slug: php-flight-application
 date: 2021-08-09T04:10:33.370Z
 description: php（flight）のアプリの備忘です
